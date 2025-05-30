@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, The Ohio State University, 2026 (expected)
+  * *Thesis: *
+* B.S. in Physics and Mathematics, Minor in Music
+  * *Thesis: Simulating the Thermal Evolution of Dark Matter During an Early Matter-Dominated Era*
 
 Work experience
 ======
