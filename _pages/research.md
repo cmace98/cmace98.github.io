@@ -11,13 +11,8 @@ author_profile: true
 
 Most of my PhD work has been on N-body simulations of self-interacting dark matter (SIDM). I have published a [study on numerical convergence](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.123024) in SIDM N-body simulations, where I present choices for particle resolution, timestep size, and gravitational softening length that minimize numerical errors. In this study I found energy non-conservation issues that are still not fully understood in SIDM simulations, and I am investigating these issues in more detail for a future study.
 
- <figure>
-  <img src="https://cmace98.github.io/images/tc_convergence.png" alt="A 4 panel figure showing collapse time convergence as a function of numerical resolution." style="width:100%">
-  <figcaption>SIDM core-collapse time converging as a function of particle number N [(link)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.123024).</figcaption>
-</figure> 
-
-<!-- ![A 4 panel figure showing collapse time convergence as a function of numerical resolution.](https://cmace98.github.io/images/tc_convergence.png)
-*SIDM core-collapse time converging as a function of particle number N [(link)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.123024).* -->
+![A 4 panel figure showing collapse time convergence as a function of numerical resolution.](https://cmace98.github.io/images/tc_convergence.png)
+*SIDM core-collapse time converging as a function of particle number N [(link)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.123024).*
 
 ## Gravitational Lensing
 
