@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+---
 * Ph.D in Physics, The Ohio State University, 2026 (expected)
   * *Thesis: *
 * B.S. in Physics and Mathematics, Minor in Music
