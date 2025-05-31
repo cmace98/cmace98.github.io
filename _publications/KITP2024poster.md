@@ -7,7 +7,7 @@ permalink: /publication/SIDMconvergence
 date: 2024-6-04
 #venue: 'Physical Review D'
 #slidesurl: 'http://cmace98.github.io/files/KITP2024_slides.pdf'
-paperurl: 'http://cmace98.github.io/files/KITP2024_slides.pdf'
+paperurl: 'http://cmace98.github.io/files/KITP2024_poster.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '<b>Charlie Mace</b>, Zhichao Carton Zeng, Annika Peter. (2024). <i>Poster presented at Cosmic Signals of Dark Matter Physics: New Synergies, KITP</i>.'
+citation: '<b>Charlie Mace</b>, Zhichao Carton Zeng, Annika Peter. (2024). <i>Poster presented at Cosmic Signals of Dark Matter Physics: New Synergies, Kavli Institute for Theoretical Physics</i>.'
 ---
