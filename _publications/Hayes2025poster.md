@@ -1,5 +1,5 @@
 ---
-title: "39th Hayes Research Forum"
+title: "Hayes Research Forum 39th Meeting"
 collection: publications
 category: presentations
 permalink: /publication/Hayes2024poster
