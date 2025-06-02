@@ -9,5 +9,5 @@ date: 2023-6-04
 slidesurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
 paperurl: 'https://baas.aas.org/pub/2023n6i326p03/release/1'
 #bibtexurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
-citation: 'Talk given<br>Albuquerque, June 2023<br>Title: <i>Convergence Tests and Applications of SIDM Core-Collapse Simulations</i><br><b>Charlie Mace</b>, Zhichao Carton Zeng, Shengqi Yang, Birendra Dhanasingham, Annika Peter, Francis-Yan Cyr-Racine'
+citation: 'Talk given<br>Albuquerque, June 2023<br>Title: <i>Convergence Tests and Applications of SIDM Core-Collapse Simulations</i><br><b>Charlie Mace</b><br>Zhichao Carton Zeng, Shengqi Yang, Birendra Dhanasingham, Annika Peter, Francis-Yan Cyr-Racine'
 ---
