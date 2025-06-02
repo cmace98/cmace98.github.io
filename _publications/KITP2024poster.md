@@ -9,5 +9,5 @@ date: 2024-6-04
 #slidesurl: 'http://cmace98.github.io/files/KITP2024_slides.pdf'
 paperurl: 'https://www.kitp.ucsb.edu/activities/darkmatter-c24'
 bibtexurl: 'http://cmace98.github.io/files/KITP2024_poster.pdf'
-citation: 'Poster presented<br>Kavli Institute for Theoretical Physics, June 2024<br>Title: <i>Convergence Tests of Self-Interacting Dark Matter Simulations</i><b>Charlie Mace</b>, Zhichao Carton Zeng, Annika Peter'
+citation: 'Poster presented<br>Kavli Institute for Theoretical Physics, June 2024<br>Title: <i>Convergence Tests of Self-Interacting Dark Matter Simulations</i><br><b>Charlie Mace</b>, Zhichao Carton Zeng, Annika Peter'
 ---
