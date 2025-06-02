@@ -1,5 +1,5 @@
 ---
-title: "Convergence Tests of Self-Interacting Dark Matter Simulations"
+title: "Cosmic Signals of Dark Matter Physics: New Synergies"
 collection: publications
 category: presentations
 permalink: /publication/SIDMconvergence
@@ -7,7 +7,7 @@ permalink: /publication/SIDMconvergence
 date: 2024-6-04
 #venue: 'Physical Review D'
 #slidesurl: 'http://cmace98.github.io/files/KITP2024_slides.pdf'
-paperurl: 'http://cmace98.github.io/files/KITP2024_poster.pdf'
-#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '<b>Charlie Mace</b>, Zhichao Carton Zeng, Annika Peter. (2024). <i>Poster presented at Cosmic Signals of Dark Matter Physics: New Synergies, Kavli Institute for Theoretical Physics</i>.'
+paperurl: 'https://www.kitp.ucsb.edu/activities/darkmatter-c24'
+bibtexurl: 'http://cmace98.github.io/files/KITP2024_poster.pdf'
+citation: 'Poster presented<br>Kavli Institute for Theoretical Physics, June 2024<br>Title: <i>Convergence Tests of Self-Interacting Dark Matter Simulations</i><b>Charlie Mace</b>, Zhichao Carton Zeng, Annika Peter'
 ---

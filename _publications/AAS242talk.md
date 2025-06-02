@@ -1,13 +1,13 @@
 ---
-title: "Convergence Tests and Applications of SIDM Core-Collapse Simulations"
+title: "American Astronomical Society 242nd Meeting"
 collection: publications
 category: presentations
 permalink: /publication/SIDMconvergence
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-6-01
+date: 2023-6-04
 #venue: 'Physical Review D'
-#slidesurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
-paperurl: http://cmace98.github.io/files/AAS242_slides.pdf#'https://baas.aas.org/pub/2023n6i326p03/release/1'
-#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '<b>Charlie Mace</b>, Zhichao Carton Zeng, Shengqi Yang, Birendra Dhanasingham, Annika Peter, Francis-Yan Cyr-Racine. (2023). <i>Talk presented at the 242nd Meeting of the American Astronomical Society</i>.'
+slidesurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
+paperurl: 'https://baas.aas.org/pub/2023n6i326p03/release/1'
+#bibtexurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
+citation: 'Talk given<br>Albuquerque, June 2023<br>Title: <i>Convergence Tests and Applications of SIDM Core-Collapse Simulations</i><br><b>Charlie Mace</b>, Zhichao Carton Zeng, Shengqi Yang, Birendra Dhanasingham, Annika Peter, Francis-Yan Cyr-Racine'
 ---

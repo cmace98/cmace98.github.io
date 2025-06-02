@@ -15,3 +15,10 @@ redirect_from:
   * *Thesis: *
 * B.S. in Physics and Mathematics, Minor in Music
   * *Thesis: Simulating the Thermal Evolution of Dark Matter During an Early Matter-Dominated Era*
+
+## Awards
+---
+
+<!-- | OSU Presidential Fellowship | December 2024 | OSU [dissertation year fellowship](https://gradsch.osu.edu/news/2024/11/21/2024-25-presidential-fellowship-recipients)  |
+| Physics Service Award       |               |                                                                                                                         |
+|                             |               |                      -->
