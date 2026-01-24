@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF CV available here.](https://cmace98.github.io/files/CVGH_6-1-25.pdf)
-
-Web CV in progress!
+[PDF CV available here.](https://cmace98.github.io/files/CV_Jan26.pdf)
 
 <!-- ## Education
 ---

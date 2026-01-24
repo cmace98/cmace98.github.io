@@ -7,7 +7,7 @@ permalink: /publication/SIDMconvergence
 date: 2023-6-04
 #venue: 'Physical Review D'
 slidesurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
-paperurl: 'https://baas.aas.org/pub/2023n6i326p03/release/1'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2023AAS...24232603M/abstract'
 #bibtexurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
 citation: 'Talk given<br>Albuquerque New Mexico, June 2023<br>Title: <i>Convergence Tests and Applications of SIDM Core-Collapse Simulations</i><br><b>Charlie Mace</b>, Zhichao Carton Zeng, Shengqi Yang, Birendra Dhanasingham, Annika Peter, Francis-Yan Cyr-Racine'
 ---

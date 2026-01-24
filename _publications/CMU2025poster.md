@@ -2,7 +2,7 @@
 title: "Gravity in the Local Group"
 collection: publications
 category: presentations
-permalink: /publication/Hayes2024poster
+#permalink: /publication/Hayes2024poster
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-6-2
 #venue: 'Physical Review D'

@@ -24,8 +24,13 @@ Some of my ongoing and future work with SIDM N-body simulations includes:
 
 ## Gravitational Lensing
 
+<!---
 <img align="right" src="https://cmace98.github.io/images/convergenceMap.png" alt="My Image" width="30%" height="auto">
+-->
+
+![An example of how self-interacting dark matter affects the lensing convergence. The compact core-collapsed halos inside the lens and along the line-of-sight produce powerful lensing signals, creating a potential probe of dark matter physics.](https://cmace98.github.io/images/convmap_full.png)
+*An example of how self-interacting dark matter affects the lensing convergence.*
 
 I also study the observational signatures of SIDM, specifically the effect of gravothermal core-collapse on substructure lensing. Core-collapsed halos are very compact objects and strong gravitational lenses. If a lensing galaxy has core-collapsed subhalos they can distort the image, and produce an observable probe of SIDM.
 
-I am implementing the SIDM models calibrated by my N-body simulations into the lensing software package [lenstronomy](https://github.com/lenstronomy/lenstronomy). My current project is using these models to test how observable the effects of SIDM on gravitational lenses would be, and testing different core-collapse models to determine the most effecient way to model SIDM halos in lensed systems.
+I am implementing the SIDM models calibrated by my N-body simulations into the lensing software package [lenstronomy](https://github.com/lenstronomy/lenstronomy). My current project is using these models to test how observable the effects of SIDM on gravitational lenses would be, and testing different core-collapse models to determine the most efficient way to model SIDM halos in lensed systems. I presented preliminary results from this study at the 247th meeting of the American Astronomical Society, and expect to submit this paper by February 2026.
