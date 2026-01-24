@@ -9,5 +9,5 @@ date: 2026-1-06
 slidesurl: 'http://cmace98.github.io/files/AAS247_slides.pdf'
 paperurl: 'https://submissions.mirasmart.com/AAS247/Itinerary/PresentationDetail.aspx?evdid=2918'
 #bibtexurl: 'http://cmace98.github.io/files/AAS242_slides.pdf'
-citation: 'Talk given<br>Phoenix Arizona, January 2026<br>Title: <i>Convergence Tests and Applications of SIDM Core-Collapse Simulations</i><br><b>Charlie Mace</b>, Annika Peter'
+citation: 'Talk given<br>Phoenix Arizona, January 2026<br>Title: <i>The Sensitivity of Substructure Lensing to SIDM Core-collapse Model Variation</i><br><b>Charlie Mace</b>, Annika Peter'
 ---
