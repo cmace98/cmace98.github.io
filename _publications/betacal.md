@@ -9,5 +9,5 @@ date: 2025-4-27
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.48550/arXiv.2504.13004'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '<b>Charlie Mace</b>, Shengqi Yang, Zhichao Carton Zeng, Annika H. G. Peter, Xiaolong Du, Andrew Benson. (2025). <i>arXiv pre-print</i>.'
+citation: '<b>Charlie Mace</b>, Shengqi Yang, Zhichao Carton Zeng, Annika H. G. Peter, Xiaolong Du, Andrew Benson. (2025). <i>Accepted for publication in Physical Review D</i>.'
 ---

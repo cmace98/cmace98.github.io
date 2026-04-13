@@ -84,6 +84,9 @@ publication_category:
     title: 'Selected Publications'    
   presentations:
     title: 'Talks and Posters'
+#teaching_category:
+#  Undergraduate course:
+#    title: 'undergrad course test title'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
